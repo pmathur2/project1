@@ -1,3 +1,4 @@
 # this function makes a lot of sense
-def minus (a, b):
-    return (a - b)
+def minus (a, b, c):
+    return (a - b -c)
+
